@@ -1,0 +1,57 @@
+.heading {
+    font-family: tahoma;
+    font-size: 19px;
+    text-align: center;  
+    padding-top: 5px; 
+}
+#outerbox {
+    margin: auto;
+    height: 550px;
+    width: 430px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.innerbox{
+    background-color: #055bb5;
+    color: #fff; 
+    border-radius: .3em .3em 0 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 22px; 
+}
+#Username ,#Password,#SignIn{
+    height: 42px;
+    width: 350px;   
+    border-radius: 5%; 
+    font-size: 20px;
+   
+}
+a {
+    text-decoration: none;
+}
+p {
+   font-size: 22px; 
+}
+#acpor{
+    font-size: 20px;
+    color: #3d7bbd;
+}
+#SignIn {
+    background-color: rgb(33, 161, 24);
+    color: #fff;
+}
+#click {
+    font-family: tahoma;
+    font-weight: bold;
+    color:#5c5c5c;
+}
+input:hover {
+    background-color:rgb(227, 227, 201);
+}
+a:hover {
+    color:rgb(183, 183, 183) ;
+}
+#SignIn:hover {
+    background-color: rgb(75, 219, 75);
+}
